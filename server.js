@@ -14,7 +14,7 @@ app.post('/send-email', (req, res) => {
     service: 'gmail',
     auth: {
       user: 'yuukiissad@gmail.com', // Replace with your Gmail address
-      pass: 'BFFANS36' // Replace with your Gmail password
+      pass: 'SNOWYGOT36' // Replace with your Gmail password
     }
   });
 
